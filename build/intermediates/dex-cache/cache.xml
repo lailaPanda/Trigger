@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-66378511fa376932b797c4d1d7feb8d3b744a739.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/SensorDashboard/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/wear/build/intermediates/pre-dexed/debug/classes-bfee9449b6ee8eecd43b9d478dd52d5f72c2b62c.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/wear/build/intermediates/pre-dexed/debug/classes-a7bc18e7748d34cf9ca79b6124c2ca89260f27b6.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/pre-dexed/debug/classes-16c80f458bba039aa85c05b7439837a6dc70b80e.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/wear/build/intermediates/pre-dexed/debug/classes-fbcb22d8877dabd3a9edb0863eae490258de5783.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/SensorDashboard/wear/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/wear/build/intermediates/pre-dexed/debug/classes-e7214ae11ab42790be64ab8ce8380d99ef0a5ceb.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/pre-dexed/debug/classes-867960466f290101b92289649c300e63c964a264.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/pre-dexed/debug/classes-aec5b4a48b45e70764a30d61e73d162659e46a45.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/SensorDashboard/wear/build/intermediates/exploded-aar/SensorDashboard/shared/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f5f04b483617847d7006fdc12f032354ae360f96">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/wear/build/intermediates/pre-dexed/debug/classes-809054377b947ea1bb8404259062e04a0d73bffa.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/exploded-aar/washHands/shared/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="972b335d5d1b116b4c10c9cc56dc85b58ecfaf7a">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/pre-dexed/debug/classes-68b132d0b812eea9688b93a96077ebf097731507.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/wear/build/intermediates/pre-dexed/debug/classes-19558a3df78dda13f1fe72e0e73017f7f95b5ee0.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/pre-dexed/debug/classes-54e6e034ebef4f44005a2e8965a731f576e4aa8d.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/pre-dexed/debug/classes-694678469aa26132874401b96acce66717b29a66.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/pre-dexed/debug/classes-cc4d092fba0f6eaf08f2300d4ad30367a3015117.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/SensorDashboard/wear/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/wear/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-685e282ec2bc7f4819ee5a08919caffd3d707799.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/pre-dexed/debug/classes-bae3ff95ef251bcef8e7adebc5e7ed550b57dc83.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/wear/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/wear/build/intermediates/pre-dexed/debug/classes-48f4d85fa20b0b9b24218889138c3a4c9671441e.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/pre-dexed/debug/classes-45053aa7f636badf3e59a092c3a1bf4b9e6990d0.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/pre-dexed/debug/classes-5bb603486b3258fe8ae382c37adaac1d39a08fb6.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/pre-dexed/debug/classes-12fc3d9f7d950e2f4bee443d07dc1383dcac65d1.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/wear/build/intermediates/pre-dexed/debug/classes-4329b75292f9ca82d2e46f4fc565ae8a1d008b03.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/pre-dexed/debug/classes-691b9bccf656859991748a2b3f6934b6f8e08ef7.jar" />
+    </item>
+    <item
+        jar="/home/panda/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.6/ee373b6d0d6ea36a0a9b0cbabaf16be7e7fc3e30/otto-1.3.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ee373b6d0d6ea36a0a9b0cbabaf16be7e7fc3e30">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/pre-dexed/debug/otto-1.3.6-b1c7ced232864d6a69dc47c31a89e4c2ffafd7f9.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/pre-dexed/debug/classes-22ca8bc50974e405d0fc2a41e859d337f99a3ed1.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/pre-dexed/debug/classes-0d51dd7749d9e150e60e5093c2b6b2ac086f4a31.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-34f5087df6b67278d842867cc633742595100b34.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-a4a5edbda9cb5be534fbe73dbac5b3f1f0e3880d.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/pre-dexed/debug/classes-4aa0f8da25c167a38de13cad80a89784c7802500.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/wear/build/intermediates/pre-dexed/debug/classes-d742de53f17710280ddebba9e51b7e4f26b5b61a.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/pre-dexed/debug/classes-336148b45693768b70956520a15644534ed23d7d.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/pre-dexed/debug/classes-5ece18c4d3e85a4678088e95a6779d97d7c92117.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/wear/build/intermediates/pre-dexed/debug/classes-bc9d6af6879878e0fe567b03567382f4c5443181.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/wear/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-3b6da0d92cbaf068e96d92b0621d06fae317fb5f.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/wear/build/intermediates/pre-dexed/debug/classes-0559267bc623822e41b394f6aca6db66917ea500.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/wear/build/intermediates/pre-dexed/debug/classes-2d23c9b0e5aef4621c9d66fc85875d77045f7e24.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/pre-dexed/debug/classes-5b6d94a671c18de723e5470230e8a3db8c5e6ffc.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/pre-dexed/debug/classes-bb71d8f47f030cab9168391ac361d54e0ccc13a1.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/pre-dexed/debug/classes-3a2c5ec7eee38b679ff1f33db1ac6a2cf1f52644.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/pre-dexed/debug/classes-a60677f327e4f013cc86354418ac671a03c16c59.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/pre-dexed/debug/classes-9ed2e7715aa0347afadb9ba31c2c6394d7ac3b27.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/wear/build/intermediates/exploded-aar/Trigger/shared/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b04123a40954e62d8f62edca1fc30f9f0e393a56">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/wear/build/intermediates/pre-dexed/debug/classes-2d3a3e1ac9c7281d1ec149441ec828b59abdfb78.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/SensorDashboard/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/wear/build/intermediates/pre-dexed/debug/classes-d24d8a0fbe4ef6c5db553968255fe7b4f9c34ecf.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/pre-dexed/debug/classes-0585454b886a6b1b9577f5322bf85cbb14714831.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/pre-dexed/debug/classes-be7966c34ce7c686236fb6e856b7ddd84c18a2ca.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/pre-dexed/debug/classes-a42579d44bb61858ee029e400a925c7176062f10.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/wear/build/intermediates/pre-dexed/debug/internal_impl-23.1.0-d5b90b0f88e1a1cac8e0ad739965c273d681f0d5.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/wear/build/intermediates/pre-dexed/debug/classes-19a534e56ead7959df77eaada36ec9c006b2436d.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/exploded-aar/SensorDashboard/shared/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f5f04b483617847d7006fdc12f032354ae360f96">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/pre-dexed/debug/classes-63dea9839b9667e95130ac1369ee5861220af894.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/SensorDashboard/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/wear/build/intermediates/pre-dexed/debug/classes-a18d8241583ba0c1f69e69aef6347769a625e050.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/wear/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/wear/build/intermediates/pre-dexed/debug/classes-c88d6469a7cbca63e715688df7648dce32858c45.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-05e054c4c89660577317b1edbfc55eb6d41228ab.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/SensorDashboard/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/wear/build/intermediates/pre-dexed/debug/classes-9829542ad98609c3f3d6d20674b4d45cc72c7320.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/wear/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/wear/build/intermediates/pre-dexed/debug/classes-c0d6702c4d2ea80c5277f68179fc65304c3334e8.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/wear/build/intermediates/pre-dexed/debug/classes-0e036ea2a884e70873eaf68f91f9c200947c25ed.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/pre-dexed/debug/classes-bd209f76a21d686e196eac5a822a724b9d9ad80a.jar" />
+    </item>
+    <item
+        jar="/home/panda/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-acc26e761a6312be4c995503cba1e18190f61bb7.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/pre-dexed/debug/classes-4708b5b06f9f42fc867586fe47624464c40bb8cb.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/pre-dexed/debug/classes-5c0c06d24f9490063cd1f47b92af6e352a2d778c.jar" />
+    </item>
+    <item
+        jar="/home/panda/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/pre-dexed/debug/support-annotations-23.1.0-877360ee30194cb8ec41ab809849259d0aefec7a.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/exploded-aar/HandWash/shared/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="332fe3c8874be117cadb9b5e61cc800c6820d76e">
+        <dex dex="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/pre-dexed/debug/classes-e9510d143ae0e8afead9929bc6b82c6f5134494f.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/mobile/build/intermediates/pre-dexed/debug/classes-4a0d071ec1aa64870fcf05410f0261832cf8ff07.jar" />
+    </item>
+    <item
+        jar="/home/panda/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/wear/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-ac579db810db04a8124c7aca12aa77e3c2cf4622.jar" />
+    </item>
+    <item
+        jar="/home/panda/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.80.3/7979d05ba7b919c53766bf98e31aaf0e9feb0590/realm-android-0.80.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7979d05ba7b919c53766bf98e31aaf0e9feb0590">
+        <dex dex="/home/panda/AndroidStudioProjects/SensorDashboard/mobile/build/intermediates/pre-dexed/debug/realm-android-0.80.3-d42c0f2553b269bd62248cfee4f877da4198e8c4.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/exploded-aar/Trigger/shared/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b04123a40954e62d8f62edca1fc30f9f0e393a56">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/pre-dexed/debug/classes-d468e48a48ba34c208669cbee20cf5a53f3b6bae.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/pre-dexed/debug/classes-2bd0535b7dce6a8418d71353e20068b586ac04a9.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="/home/panda/AndroidStudioProjects/HandWash/wear/build/intermediates/pre-dexed/debug/classes-50ac2816cfc6bfc7a76e6988513281a5140ae935.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/wear/build/intermediates/exploded-aar/washHands/shared/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="972b335d5d1b116b4c10c9cc56dc85b58ecfaf7a">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/wear/build/intermediates/pre-dexed/debug/classes-113c7c81f6ba3d744d2d309b6ceb11993c9f4d01.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/washHands/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/home/panda/AndroidStudioProjects/washHands/wear/build/intermediates/pre-dexed/debug/classes-f735409b5ec198f5b25e4db92c2a71353eedcfd6.jar" />
+    </item>
+    <item
+        jar="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/home/panda/AndroidStudioProjects/Trigger/mobile/build/intermediates/pre-dexed/debug/classes-7d994123a5848715d6ab2b4b39e0c3f9fb6a170b.jar" />
+    </item>
+
+</items>
